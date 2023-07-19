@@ -1,0 +1,1 @@
+console.log("Bring Back Honkler! extension loaded.");

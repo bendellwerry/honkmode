@@ -1,0 +1,20 @@
+{
+    "name": "Honk Mode",
+    "description": "Honk Mode!",
+    "version": "1.0",
+    "manifest_version": 3,
+    "background": {"service_worker": "background.js"},
+    "permissions": [
+    "declarativeNetRequestWithHostAccess"
+    ],
+    "host_permissions" : [
+      "https://gab.com/*",
+      "https://media.gab.com/*"
+    ],
+    "icons": {
+        "16": "images/honkler.png",
+        "32": "images/honkler.png",
+        "48": "images/honkler.png",
+        "128": "images/honkler.png"
+      }
+  }
