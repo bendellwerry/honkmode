@@ -1,1 +1,1 @@
-console.log("Bring Back Honkler! extension loaded.");
+console.log("Honk Mode activated!");
