@@ -3,7 +3,7 @@ This is a simple Chromium browser extension that will replace the Clown react on
 <br>
 (Brave, Opera, Vivaldi, Chrome, etc.)</b>
 <br>
-<b>[Activate on the Chrome Web Store!]([https://kyrbys.com/HonkMode.crx](https://chrome.google.com/webstore/detail/honk-mode/nmkahmmkplnpaiemjojkhfjacoheklbb/))</b>
+<b>[Activate on the Chrome Web Store!](https://chrome.google.com/webstore/detail/honk-mode/nmkahmmkplnpaiemjojkhfjacoheklbb/)</b>
 <br>
 <br>
 Honk Mode is now activated! Enjoy!<br><br>
